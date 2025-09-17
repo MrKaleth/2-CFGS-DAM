@@ -11,14 +11,10 @@
             "id": "ce3010b69154d3c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas de Gestión Empresarial/Tema 1/Actividad Introductoria.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Actividad Introductoria"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -154,8 +150,8 @@
             "state": {
               "type": "BC-matrix",
               "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
+              "icon": "lucide-ghost",
+              "title": "BC-matrix"
             }
           },
           {
@@ -164,8 +160,8 @@
             "state": {
               "type": "BC-tree",
               "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
+              "icon": "lucide-ghost",
+              "title": "BC-tree"
             }
           },
           {
@@ -182,10 +178,10 @@
             "id": "18e4a117b3ce416c",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -207,9 +203,19 @@
               "icon": "ag-style",
               "title": "Juggl style"
             }
+          },
+          {
+            "id": "564c1988804a9526",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -225,10 +231,8 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
       "juggl:Juggl global graph": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "media-extended:Open external media": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Smart Connections: Open connections view": false,
@@ -238,8 +242,8 @@
   },
   "active": "ce3010b69154d3c7",
   "lastOpenFiles": [
-    "Sistemas de Gestión Empresarial/Tema 1/Documento Referenciado.md",
     "Sistemas de Gestión Empresarial/Tema 1/Actividad Introductoria.md",
+    "Sistemas de Gestión Empresarial/Tema 1/Documento Referenciado.md",
     "Sistemas de Gestión Empresarial/Tema 1/Actividad Introductoria",
     "Sistemas de Gestión Empresarial/Tema 1"
   ]
