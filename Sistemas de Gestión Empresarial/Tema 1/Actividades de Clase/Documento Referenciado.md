@@ -122,3 +122,7 @@ Sin casarnos con un único producto, verás habilidades que se repiten en cualqu
 Este módulo va de entender y manejar sistemas que sostienen el trabajo real. Aprenderás a instalarlos, configurarlos, conectar piezas, probar, documentar y cuidar los datos. Eso te da una mirada distinta: ver cómo se trabaja y por qué ciertas decisiones técnicas cambian el día a día de una organización.
 
 Si lo miras desde este punto de vista, verás sistemas de gestión por todas partes. Y empezarás a hablar el idioma que usan las empresas cuando toman decisiones.
+
+
+[^9999]: [[Sistemas de Gestión Empresarial]]
+[^1]: [[Sistemas de Gestión Empresarial/Tema 1/Tema 1]]

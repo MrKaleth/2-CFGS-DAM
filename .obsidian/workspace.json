@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d4b5495494bdb11",
+        "id": "cf6c9bc92c2ea5f2",
         "type": "tabs",
         "children": [
           {
-            "id": "ce3010b69154d3c7",
+            "id": "153c8184a9de2d5c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285.5
   },
   "right": {
     "id": "8709e12125111008",
@@ -208,14 +208,43 @@
             "id": "564c1988804a9526",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "4aba5714ba58db16",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "55eb7a3fe2923cd9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "b998a8a8e7068c3a",
+            "type": "leaf",
+            "state": {
               "type": "graph-analysis",
               "state": {},
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "horizontal",
@@ -240,10 +269,42 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce3010b69154d3c7",
+  "active": "153c8184a9de2d5c",
   "lastOpenFiles": [
-    "Sistemas de Gestión Empresarial/Tema 1/Actividad Introductoria.md",
-    "Sistemas de Gestión Empresarial/Tema 1/Documento Referenciado.md",
+    "Sistemas de Gestión Empresarial/Tema 1/Tema 1.md",
+    "Sistemas de Gestión Empresarial/Tema 1/Actividades Propuestas/Actividad Propuesta 1.md",
+    "Sistemas de Gestión Empresarial/Tema 1/Actividades de Clase/Actividad de Clase 1.md",
+    "Desarrollo de Interfaces/Tema 1/Tema 1.md",
+    "Desarrollo de Interfaces/Tema 1/Actividades Propuestas/Actividad Propuesta 1.md",
+    "Desarrollo de Interfaces/Tema 1/Actividades de Clase/Actividad de Clase 2.md",
+    "Sistemas de Gestión Empresarial/Tema 1/Actividades de Clase/Actividad Resuelta 1.md",
+    "Sistemas de Gestión Empresarial/Actividades Propuestas.md",
+    "Sistemas de Gestión Empresarial/Tema 1/Actividades de Clase/Actividad Introductoria.md",
+    "Imágenes/Pasted image 20250918121245.png",
+    "Desarrollo de Interfaces/Tema 1/Actividades de Clase/Actividad de Clase 1.md",
+    "Sistemas de Gestión Empresarial/Instrucciones Portfolio.md",
+    "Desarrollo de Interfaces/Instrucciones Portfolio.md",
+    "Desarrollo de Interfaces/Actividades Propuestas.md",
+    "Desarrollo de Interfaces/Desarrollo de Interfaces.md",
+    "Sistemas de Gestión Empresarial/Actividades de Clase.md",
+    "Sistemas de Gestión Empresarial/Tema 1/Actividades Propuestas",
+    "Desarrollo de Interfaces/Actividades de Clase.md",
+    "Desarrollo de Interfaces/Tema 1/Actividades Propuestas",
+    "Sistemas de Gestión Empresarial/Tema 1/Actividades de Clase",
+    "Desarrollo de Interfaces/Tema 1/Actividades de Clase",
+    "Imágenes/Pasted image 20250918115620.png",
+    "Imágenes/Pasted image 20250918115210.png",
+    "Desarrollo de Interfaces/Desarrollo de Interfaces 1.md",
+    "Sistemas de Gestión Empresarial/Tema 1/Actividades de Clase/Documento Referenciado.md",
+    "Sistemas de Gestión Empresarial/Sistemas de Gestión Empresarial.md",
+    "Imágenes/Pasted image 20250918092044.png",
+    "Imágenes/Pasted image 20250918092013.png",
+    "Pasted image 20250918092016.png",
+    "Imágenes/Pasted image 20250918082328.png",
+    "Imágenes/Pasted image 20250918081426.png",
+    "Imágenes",
+    "Desarrollo de Interfaces/Tema 1",
+    "Sin título.base",
     "Sistemas de Gestión Empresarial/Tema 1/Actividad Introductoria",
     "Sistemas de Gestión Empresarial/Tema 1"
   ]
